@@ -4,6 +4,15 @@
     font-size: 0.9em;
 }
 
+.vp-hero-title {
+    font-size: 2.5rem;
+}
+
+.vp-feature-item {
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
+
 .vp-feature-details {
     margin: 0;
     line-height: 1.4;
@@ -12,6 +21,33 @@
 
 .vp-feature-title {
     font-size: 1.3em;
+}
+
+.vp-feature-header {
+    font-size: 2em;
+    text-align: left;
+    color: orange;
+    margin: 0.2em 0 0.2em 0;
+}
+
+.vp-features {
+    place-content: stretch left;
+    margin: 0.5rem 0;
+}
+
+.vp-feature {
+    padding: 0.5rem 0.5rem;
+}
+
+.vp-highlight-title {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: purple;
+}
+
+.vp-highlight-header {
+    text-align: left;
+    font-size: 2em;
 }
 
 .vp-toc-link.level2 {
