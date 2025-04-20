@@ -98,6 +98,7 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
+    hint: true,
 
     // uncomment these if you need TeX support
     // math: {
