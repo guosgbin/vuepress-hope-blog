@@ -7,6 +7,8 @@ title: JVM相关问题
 | V1   | 新建         | 忘了，应该是 23 年底 |
 | V2   | 更新部分文案 | 2025-04-21 02:19:10  |
 
+ [[toc]]
+
 > JDK8 垃圾回收器官方文档 https://docs.oracle.com/javase/8/docs/technotes/guides/vm/gctuning/
 >
 > JDK11 垃圾回收器官方文档 https://docs.oracle.com/en/java/javase/11/gctuning/index.html
