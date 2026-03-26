@@ -96,6 +96,20 @@ highlights:
       details: 《Effective Java》第三版
       link: /EffectiveJava_note/index.html
 
+  - header: "AI"
+    description: 
+    image: 
+    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 提示词工程
+    #   icon: slides
+        details: jvm、mysql、redis、juc等
+        link: /prompt_engineering/index.html
+
   - header: "面试准备"
     description: 
     image: 
