@@ -1,8 +1,8 @@
 ---
-title: 03-Chain-of-Thought Prompting
+title: 03-Chain-of-Thought Prompting(COT)
 date: 2026-03-25 15:35:37
 tags: 
-  - Chain-of-Thought Prompting
+  - COT
 categories:
   - Prompting Techniques
 ---

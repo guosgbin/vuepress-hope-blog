@@ -1,8 +1,8 @@
 ---
-title: 08-Tree of Thoughts
+title: 08-Tree of Thoughts(ToT)
 date: 2026-03-26 14:29:54
 tags: 
-  - Tree of Thoughts
+  -ToT
 categories:
   - Prompting Techniques
 ---
