@@ -107,8 +107,18 @@ highlights:
     features:
       - title: 提示词工程
     #   icon: slides
-        details: jvm、mysql、redis、juc等
+        details: zero-shot、few-shot、COT、TOT、ART、APE等
         link: /prompt_engineering/index.html
+        
+      - title: RAG
+    #   icon: slides
+        details: RAG、多模态嵌入、检索
+        link: /RAG/index.html
+
+      - title: 待定
+    #   icon: slides
+        details: 待定
+        link: /RAG/index.html
 
   - header: "面试准备"
     description: 
