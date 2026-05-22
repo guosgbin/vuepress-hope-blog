@@ -1,5 +1,10 @@
 ---
 title: 32-阻塞队列SynchronousQueue
+date: 2022-12-13 23:34:22
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 | 版本 | 内容 | 时间                   |

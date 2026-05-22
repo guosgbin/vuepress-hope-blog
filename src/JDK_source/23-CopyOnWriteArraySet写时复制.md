@@ -1,5 +1,10 @@
 ---
 title: 23-CopyOnWriteArraySet写时复制
+date: 2022-11-04 13:27:47
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 | 版本 | 内容 | 时间                   |

@@ -1,5 +1,10 @@
 ---
 title: 007-redis频繁淘汰-清除redis线上死key
+date: 2023-12-28 15:29:23
+tags: 
+  - issue
+categories:
+  - issue
 ---
 
 ## 现象

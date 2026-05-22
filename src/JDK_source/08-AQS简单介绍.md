@@ -1,5 +1,10 @@
 ---
 title: 08-AQS简单介绍
+date: 2022-09-06 00:24:48
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 

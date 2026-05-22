@@ -1,5 +1,10 @@
 ---
 title: 16-读写锁ReentrantReadWriteLock
+date: 2022-09-29 23:50:27
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 

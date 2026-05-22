@@ -1,5 +1,10 @@
 ---
 title: 006-linux系统参数-连接队列长度过小导致连接丢弃
+date: 2024-01-06 10:23:21
+tags: 
+  - issue
+categories:
+  - issue
 ---
 
 ## 现象

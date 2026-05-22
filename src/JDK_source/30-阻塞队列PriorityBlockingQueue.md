@@ -1,5 +1,10 @@
 ---
 title: 30-阻塞队列PriorityBlockingQueue
+date: 2022-12-07 23:36:25
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 | 版本 | 内容 | 时间                   |

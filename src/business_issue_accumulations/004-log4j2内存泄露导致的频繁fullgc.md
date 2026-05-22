@@ -1,5 +1,10 @@
 ---
 title: 004-log4j2内存泄露导致频繁fullgc
+date: 2023-12-17 12:49:21
+tags: 
+  - issue
+categories:
+  - issue
 ---
 
 ## 现象

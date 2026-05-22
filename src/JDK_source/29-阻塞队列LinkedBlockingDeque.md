@@ -1,5 +1,10 @@
 ---
 title: 29-阻塞队列LinkedBlockingDeque
+date: 2022-12-06 23:52:45
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 | 版本 | 内容 | 时间                   |

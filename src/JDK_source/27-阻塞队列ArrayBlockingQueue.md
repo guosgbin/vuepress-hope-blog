@@ -1,5 +1,10 @@
 ---
 title: 27-阻塞队列ArrayBlockingQueue
+date: 2022-12-03 23:24:10
+tags: 
+  - JUC
+categories:
+  - JDK源码分析
 ---
 
 | 版本 | 内容 | 时间                   |
