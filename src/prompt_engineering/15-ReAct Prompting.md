@@ -2,7 +2,7 @@
 title: 15-ReAct Prompting
 date: 2026-03-30 15:49:07
 tags: 
-  - ReAct
+  - Prompting
 categories:
   - Prompting Techniques
 ---

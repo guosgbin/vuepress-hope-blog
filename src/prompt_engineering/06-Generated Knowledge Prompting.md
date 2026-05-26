@@ -2,7 +2,7 @@
 title: 06-Generated Knowledge Prompting
 date: 2026-03-25 20:58:52
 tags: 
-  - Generated Knowledge Prompting
+  - Prompting
 categories:
   - Prompting Techniques
 ---

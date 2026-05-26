@@ -2,7 +2,7 @@
 title: 14-Program-Aided Language Models
 date: 2026-03-27 14:25:23
 tags: 
-  - PAL
+  - Prompting
 categories:
   - Prompting Techniques
 ---

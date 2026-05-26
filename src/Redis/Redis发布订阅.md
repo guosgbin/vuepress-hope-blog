@@ -1,5 +1,10 @@
 ---
 title: Redis发布订阅
+date: 2023-04-19 01:01:12
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                |

@@ -2,7 +2,7 @@
 title: 11-Automatic Prompt Engineer (APE)
 date: 2026-03-26 19:39:34
 tags: 
-  - APE
+  - Prompting
 categories:
   - Prompting Techniques
 ---

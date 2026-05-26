@@ -1,5 +1,10 @@
 ---
 title: Redis Cluster集群管理工具redis-cli
+date: 2023-05-04 20:45:56
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                |

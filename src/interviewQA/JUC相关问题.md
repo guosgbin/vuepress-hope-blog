@@ -1,5 +1,10 @@
 ---
 title: 并发编程和JUC相关问题
+date: 2023-12-28 00:27:00
+tags: 
+  - interview
+categories:
+  - interviewQA
 ---
 
  [[toc]]

@@ -1,5 +1,10 @@
 ---
 title: Redis Cluster集群基本特性和集群搭建
+date: 2023-05-04 09:12:05
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

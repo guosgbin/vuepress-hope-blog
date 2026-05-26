@@ -2,7 +2,7 @@
 title: 04-Meta Prompting
 date: 2026-03-25 19:42:14
 tags: 
-  - Meta Prompting
+  - Prompting
 categories:
   - Prompting Techniques
 ---

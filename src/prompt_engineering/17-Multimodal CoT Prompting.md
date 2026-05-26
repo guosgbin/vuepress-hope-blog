@@ -2,7 +2,7 @@
 title: 17-Multimodal CoT Prompting
 date: 2026-03-27 15:16:02
 tags: 
-  - Multimodal CoT Prompting
+  - Prompting
 categories:
   - Prompting Techniques
 ---

@@ -2,7 +2,7 @@
 title: 07-Prompt Chaining
 date: 2026-03-26 11:22:06
 tags: 
-  - Prompt Chaining
+  - Prompt
 categories:
   - Prompting Techniques
 ---

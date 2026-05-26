@@ -1,5 +1,10 @@
 ---
 title: Redis Sentinel高可用
+date: 2023-04-05 00:30:28
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容                                     | 时间                   |

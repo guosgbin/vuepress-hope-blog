@@ -2,7 +2,7 @@
 title: 10-Automatic Reasoning and Tool-use (ART)
 date: 2026-03-26 17:31:01
 tags: 
-  - ART
+  - Prompting
 categories:
   - Prompting Techniques
 ---

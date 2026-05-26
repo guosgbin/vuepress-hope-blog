@@ -2,7 +2,7 @@
 title: 12-Active-Prompt
 date: 2026-03-26 20:11:40
 tags: 
-  - Active-Prompt
+  - Prompting
 categories:
   - Prompting Techniques
 ---

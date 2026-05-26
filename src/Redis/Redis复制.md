@@ -1,5 +1,10 @@
 ---
 title: Redis复制
+date: 2023-04-02 00:44:03
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

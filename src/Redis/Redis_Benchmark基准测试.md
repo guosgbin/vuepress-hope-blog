@@ -1,5 +1,10 @@
 ---
 title: Redis Benchmark基准测试
+date: 2023-04-23 01:29:59
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

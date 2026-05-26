@@ -2,7 +2,7 @@
 title: 01-Zero-Shot Prompting
 date: 2026-03-24 16:32:50
 tags: 
-  - Zero-Shot Prompting
+  - Prompting
 categories:
   - Prompting Techniques
 ---

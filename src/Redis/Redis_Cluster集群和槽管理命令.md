@@ -1,5 +1,10 @@
 ---
 title: Redis Cluster集群和槽管理命令
+date: 2023-05-05 23:25:49
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

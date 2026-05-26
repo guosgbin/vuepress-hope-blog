@@ -1,5 +1,10 @@
 ---
 title: Redis key设计规范
+date: 2023-05-03 22:32:42
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

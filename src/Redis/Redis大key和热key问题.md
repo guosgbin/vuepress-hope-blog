@@ -1,5 +1,10 @@
 ---
 title: Redis大key和热key问题
+date: 2023-04-27 00:26:37
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

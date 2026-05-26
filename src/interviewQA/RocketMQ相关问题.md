@@ -1,5 +1,10 @@
 ---
 title: RocketMQ相关问题
+date: 2025-04-21 22:30:51
+tags: 
+  - interview
+categories:
+  - interviewQA
 ---
 
 | 版本 | 内容 | 时间                   |

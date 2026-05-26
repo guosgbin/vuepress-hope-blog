@@ -1,5 +1,10 @@
 ---
 title: MySQL相关问题
+date: 2023-12-15 22:32:28
+tags: 
+  - interview
+categories:
+  - interviewQA
 ---
 
  [[toc]]

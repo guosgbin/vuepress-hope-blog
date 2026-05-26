@@ -2,7 +2,7 @@
 title: 05-Self-Consistency
 date: 2026-03-25 20:35:28
 tags: 
-  - Self-Consistency
+  - Prompting
 categories:
   - Prompting Techniques
 ---

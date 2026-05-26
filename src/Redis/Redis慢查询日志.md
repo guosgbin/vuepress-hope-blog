@@ -1,5 +1,10 @@
 ---
 title: Redis慢查询日志
+date: 2023-04-09 22:36:04
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

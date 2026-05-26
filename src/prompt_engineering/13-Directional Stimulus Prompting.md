@@ -2,7 +2,7 @@
 title: 13-Directional Stimulus Prompting
 date: 2026-03-27 11:15:01
 tags: 
-  - Directional Stimulus Prompting
+  - Prompting
 categories:
   - Prompting Techniques
 ---

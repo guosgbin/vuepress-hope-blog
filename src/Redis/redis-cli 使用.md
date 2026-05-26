@@ -1,5 +1,10 @@
 ---
 title: redis-cli使用
+date: 2023-04-11 00:36:04
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

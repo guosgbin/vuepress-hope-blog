@@ -2,7 +2,7 @@
 title: 16-Reflexion
 date: 2026-03-27 15:17:48
 tags: 
-  - Reflexion
+  - Prompting
 categories:
   - Prompting Techniques
 ---

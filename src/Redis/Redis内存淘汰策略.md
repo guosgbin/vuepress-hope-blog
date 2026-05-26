@@ -1,5 +1,10 @@
 ---
 title: Redis内存淘汰策略
+date: 2023-04-13 23:42:36
+tags: 
+  - redis
+categories:
+  - redis
 ---
 
 | 版本 | 内容 | 时间                   |

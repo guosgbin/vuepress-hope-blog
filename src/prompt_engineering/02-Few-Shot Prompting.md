@@ -2,7 +2,7 @@
 title: 02-Few-Shot Prompting
 date: 2026-03-24 20:54:23
 tags: 
-  - Few-Shot Prompting
+  - Prompting
 categories:
   - Prompting Techniques
 ---

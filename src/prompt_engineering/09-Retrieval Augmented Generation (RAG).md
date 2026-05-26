@@ -2,7 +2,7 @@
 title: 09-Retrieval Augmented Generation (RAG)
 date: 2026-03-26 16:42:12
 tags: 
-  - RAG
+  - Prompting
 categories:
   - Prompting Techniques
 ---

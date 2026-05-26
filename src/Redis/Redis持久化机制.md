@@ -1,5 +1,10 @@
 ---
-title: Redis持久化机制 
+title: Redis持久化机制
+date: 2023-03-30 01:25:08
+tags: 
+  - redis
+categories:
+  - redis 
 ---
 
 | 版本 | 内容 | 时间                   |
