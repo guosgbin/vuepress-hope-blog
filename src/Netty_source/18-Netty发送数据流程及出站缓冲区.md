@@ -1,8 +1,9 @@
 ---
-title: 18-Netty发送数据流程及出站缓冲区
+title: Netty原理18：Netty发送数据流程及出站缓冲区
 date: 2022-03-21 01:00:11
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

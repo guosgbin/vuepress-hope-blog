@@ -1,5 +1,11 @@
 ---
 title: 05-RocketMQ 服务端和客户端的启动
+date: 2023-06-07 22:28:39
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 | 版本 | 内容 | 时间                   |

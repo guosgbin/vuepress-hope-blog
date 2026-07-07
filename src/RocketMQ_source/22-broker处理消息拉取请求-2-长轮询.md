@@ -1,5 +1,11 @@
 ---
 title: 22-broker处理消息拉取请求-2-长轮询
+date: 2023-06-24 15:18:40
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

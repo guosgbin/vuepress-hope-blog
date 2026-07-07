@@ -1,8 +1,9 @@
 ---
-title: 12-llamaindex 基于 ChromaDB 向量存储索引
+title: RAG-12-llamaindex 基于 ChromaDB 向量存储索引
 date: 2026-04-23 16:26:23
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

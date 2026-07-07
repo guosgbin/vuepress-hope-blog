@@ -1,5 +1,10 @@
 ---
 title: 13-结果集处理
+date: 2021-06-20 23:32:33
+tags: 
+  - Mybatis
+categories:
+  - Mybatis
 ---
 
 | 版本 | 内容 | 时间                  |
@@ -216,5 +221,4 @@ private void callResultHandler(ResultHandler<?> resultHandler, DefaultResultCont
     ((ResultHandler<Object>) resultHandler).handleResult(resultContext);
 }
 ```
-
 

@@ -1,8 +1,9 @@
 ---
-title: 06-llamaindex数据分割
+title: RAG-06-llamaindex数据分割
 date: 2026-04-20 10:38:58
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

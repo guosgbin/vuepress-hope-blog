@@ -1,8 +1,9 @@
 ---
-title: 12-线程体系-NioEventLoop规避JDK的NIO空循环bug
+title: Netty原理12：线程体系-NioEventLoop规避JDK的NIO空循环bug
 date: 2022-02-23 18:38:06
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

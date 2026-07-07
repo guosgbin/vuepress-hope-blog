@@ -1,8 +1,9 @@
 ---
-title: 07-线程体系-AbstractScheduledEventExecutor-优先队列
+title: Netty原理07：线程体系-AbstractScheduledEventExecutor-优先队列
 date: 2022-01-27 15:46:31
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

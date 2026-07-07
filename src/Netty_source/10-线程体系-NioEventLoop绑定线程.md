@@ -1,8 +1,9 @@
 ---
-title: 10-线程体系-NioEventLoop绑定线程
+title: Netty原理10：线程体系-NioEventLoop绑定线程
 date: 2022-02-23 18:34:24
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

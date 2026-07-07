@@ -1,5 +1,11 @@
 ---
 title: 18-消费者启动流程（不完整）
+date: 2023-06-25 19:31:40
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

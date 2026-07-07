@@ -1,8 +1,9 @@
 ---
-title: 15-客户端处理READ事件概述
+title: Netty原理15：客户端处理READ事件概述
 date: 2022-03-10 09:04:53
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

@@ -1,5 +1,11 @@
 ---
 title: 17-broker过期文件删除机制
+date: 2023-06-22 13:15:53
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

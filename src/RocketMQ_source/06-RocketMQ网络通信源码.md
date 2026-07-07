@@ -1,5 +1,11 @@
 ---
 title: 06-RocketMQ网络通信源码
+date: 2022-08-01 23:20:55
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

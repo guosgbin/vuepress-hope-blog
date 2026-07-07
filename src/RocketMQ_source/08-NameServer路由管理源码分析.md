@@ -1,5 +1,11 @@
 ---
 title: 08-NameServer路由管理源码分析
+date: 2023-08-01 23:15:33
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

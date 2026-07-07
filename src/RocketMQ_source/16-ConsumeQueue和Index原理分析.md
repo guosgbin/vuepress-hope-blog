@@ -1,5 +1,11 @@
 ---
 title: 16-ConsumeQueue原理分析
+date: 2023-06-22 13:01:04
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

@@ -1,5 +1,11 @@
 ---
 title: 02-NameServer启动流程
+date: 2022-08-01 10:40:21
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 | 版本 | 内容 | 时间                   |

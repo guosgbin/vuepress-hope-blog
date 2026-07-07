@@ -1,5 +1,11 @@
 ---
 title: 04-RocketMQ网络通信原理
+date: 2022-08-01 23:15:29
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

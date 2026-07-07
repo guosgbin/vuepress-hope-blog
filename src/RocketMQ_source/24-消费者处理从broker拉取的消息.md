@@ -1,5 +1,11 @@
 ---
 title: 24-消费者处理从broker拉取的消息
+date: 2023-06-24 22:04:54
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

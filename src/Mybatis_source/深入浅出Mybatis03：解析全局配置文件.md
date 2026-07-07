@@ -1,5 +1,10 @@
 ---
 title: 03-解析全局配置文件
+date: 2021-06-07 00:21:08
+tags: 
+  - Mybatis
+categories:
+  - Mybatis
 ---
 
 

@@ -1,8 +1,9 @@
 ---
-title: 02-RAG技术简介
+title: RAG-02-RAG技术简介
 date: 2026-04-03 00:26:14
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

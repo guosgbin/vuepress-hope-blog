@@ -1,8 +1,9 @@
 ---
-title: 16-llamaindex RAG引擎-查询引擎
+title: RAG-16-llamaindex RAG引擎-查询引擎
 date: 2026-05-06 11:21:35
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

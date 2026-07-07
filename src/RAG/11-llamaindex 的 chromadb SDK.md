@@ -1,8 +1,9 @@
 ---
-title: 11-llamaindex 的 chromadb SDK
+title: RAG-11-llamaindex 的 chromadb SDK
 date: 2026-04-22 16:09:50
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

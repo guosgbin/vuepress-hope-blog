@@ -1,5 +1,11 @@
 ---
 title: 15-broker的刷盘机制
+date: 2023-06-18 22:19:54
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

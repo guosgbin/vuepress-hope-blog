@@ -1,5 +1,11 @@
 ---
 title: 12-Broker存储机制概述
+date: 2023-08-09 19:14:24
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

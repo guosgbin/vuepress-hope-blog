@@ -1,5 +1,11 @@
 ---
 title: 14-CommitLog原理分析
+date: 2023-06-18 23:02:01
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

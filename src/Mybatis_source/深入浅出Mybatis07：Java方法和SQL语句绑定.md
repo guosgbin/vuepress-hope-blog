@@ -1,5 +1,10 @@
 ---
 title: 02-Java方法和SQL语句绑定
+date: 2021-06-14 17:12:31
+tags: 
+  - Mybatis
+categories:
+  - Mybatis
 ---
 
 | 版本 | 内容 | 时间                  |

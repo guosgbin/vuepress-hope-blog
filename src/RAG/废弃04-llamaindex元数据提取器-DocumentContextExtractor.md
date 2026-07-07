@@ -1,8 +1,9 @@
 ---
-title: 废弃04-llamaindex元数据提取器-DocumentContextExtractor
+title: RAG-废弃04-llamaindex元数据提取器-DocumentContextExtractor
 date: 2026-04-17 14:44:45
 tags: 
   - RAG、metadata
+  - AI&LLM
 categories:
   - RAG
 ---

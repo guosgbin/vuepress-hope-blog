@@ -1,8 +1,9 @@
 ---
-title: 17-Netty管道机制
+title: Netty原理17：Netty管道机制
 date: 2022-03-16 12:30:42
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

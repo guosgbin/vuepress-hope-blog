@@ -1,5 +1,11 @@
 ---
 title: 13-MappedFile和MappedFileQueue分析
+date: 2022-08-10 21:10:24
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

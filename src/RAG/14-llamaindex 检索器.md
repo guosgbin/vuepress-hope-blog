@@ -1,8 +1,9 @@
 ---
-title: 14-llamaindex 检索器
+title: RAG-14-llamaindex 检索器
 date: 2026-04-27 11:29:45
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

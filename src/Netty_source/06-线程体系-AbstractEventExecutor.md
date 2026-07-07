@@ -1,8 +1,9 @@
 ---
-title: 06-线程体系-AbstractEventExecutor
+title: Netty原理06：线程体系-AbstractEventExecutor
 date: 2022-01-27 15:46:31
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

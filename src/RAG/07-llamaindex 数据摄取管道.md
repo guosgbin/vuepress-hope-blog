@@ -1,8 +1,9 @@
 ---
-title: 07-llamaindex数据摄取管道
+title: RAG-07-llamaindex数据摄取管道
 date: 2026-04-20 17:28:58
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

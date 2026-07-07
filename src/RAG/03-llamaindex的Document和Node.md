@@ -1,8 +1,9 @@
 ---
-title: 03-llamaindex的Document和Node
+title: RAG-03-llamaindex的Document和Node
 date: 2026-04-12 22:23:06
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

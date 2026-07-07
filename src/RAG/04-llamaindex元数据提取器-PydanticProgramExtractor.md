@@ -1,8 +1,9 @@
 ---
-title: 04-llamaindex元数据提取器-PydanticProgramExtractor.md
+title: RAG-04-llamaindex元数据提取器-PydanticProgramExtractor.md
 date: 
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

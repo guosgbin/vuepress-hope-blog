@@ -1,5 +1,10 @@
 ---
 title: 12-参数解析和赋值
+date: 2021-06-20 20:16:48
+tags: 
+  - Mybatis
+categories:
+  - Mybatis
 ---
 
 | 版本 | 内容 | 时间                  |

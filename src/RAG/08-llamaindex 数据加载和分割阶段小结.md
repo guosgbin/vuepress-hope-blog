@@ -1,8 +1,9 @@
 ---
-title: 08-llamaindex 数据加载和分割阶段小结
+title: RAG-08-llamaindex 数据加载和分割阶段小结
 date: 2026-04-21 23:15:59
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

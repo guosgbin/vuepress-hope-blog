@@ -1,5 +1,10 @@
 ---
 title: 08-获得SqlSession
+date: 2021-06-14 18:44:17
+tags: 
+  - Mybatis
+categories:
+  - Mybatis
 ---
 
 | 版本 | 内容 | 时间                  |

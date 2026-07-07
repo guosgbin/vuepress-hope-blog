@@ -1,5 +1,10 @@
 ---
 title: 10-缓存机制
+date: 2021-06-17 23:26:31
+tags: 
+  - Mybatis
+categories:
+  - Mybatis
 ---
 
 | 版本 | 内容 | 时间                  |

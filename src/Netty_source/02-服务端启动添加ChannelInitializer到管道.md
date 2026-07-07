@@ -1,8 +1,9 @@
 ---
-title: 02-服务端启动添加ChannelInitializer到管道
+title: Netty原理02：服务端启动添加ChannelInitializer到管道
 date: 2022-03-08 08:47:52
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

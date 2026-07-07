@@ -1,5 +1,11 @@
 ---
 title: 23-broker处理消息拉取请求-3-读取消息
+date: 2023-06-24 18:37:40
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

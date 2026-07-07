@@ -1,8 +1,9 @@
 ---
-title: 05-llamaindex数据加载
+title: RAG-05-llamaindex数据加载
 date: 2026-04-17 15:50:44
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

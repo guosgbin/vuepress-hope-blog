@@ -1,8 +1,9 @@
 ---
-title: 13-llamaindex 更多索引类型
+title: RAG-13-llamaindex 更多索引类型
 date: 2026-04-24 19:57:37
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---

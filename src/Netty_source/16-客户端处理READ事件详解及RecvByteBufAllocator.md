@@ -1,8 +1,9 @@
 ---
-title: 16-客户端处理READ事件详解及RecvByteBufAllocator
+title: Netty原理16：客户端处理READ事件详解及RecvByteBufAllocator
 date: 2022-02-23 18:34:24
 tags: 
   - Netty
+  - 源码分析
 categories:
   - Netty
 ---

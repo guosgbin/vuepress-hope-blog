@@ -1,5 +1,11 @@
 ---
 title: 07-NameServer路由元信息和broker注册
+date: 2022-08-01 12:26:16
+tags: 
+  - RocketMQ
+  - 源码分析
+categories:
+  - RocketMQ
 ---
 
 

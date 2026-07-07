@@ -1,8 +1,9 @@
 ---
-title: 15-llamaindex 响应生成器
+title: RAG-15-llamaindex 响应生成器
 date: 2026-04-28 10:54:23
 tags: 
   - RAG
+  - AI&LLM
 categories:
   - RAG
 ---
