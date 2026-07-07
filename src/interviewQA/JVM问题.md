@@ -198,7 +198,7 @@ graph LR
 
 4. <font color="blue"><b>初始化对象头</b></font>：在分配内存空间之后，Java 虚拟机会初始化对象头。例如这个对象是<font color="blue"><b>哪个类的实例</b></font>、如何才能找到<font color="blue"><b>类的元数据</b></font>信息、对象的哈希码、对象的分代年龄等信息。数组对象还会分配数组长度。
 
-5. <font color="blue"><b>执行`<init>`()</b></font>：Java 虚拟机会执行对象的构造方法，完成对象的初始化工作。在构造方法中，<font color="blue"><b>完成成员变量的复制、实例代码块执行、构造方法逻辑执行</b></font>
+5. <font color="blue"><b>执行&lt;init&gt;()</b></font>：Java 虚拟机会执行对象的构造方法，完成对象的初始化工作。在构造方法中，<font color="blue"><b>完成成员变量的复制、实例代码块执行、构造方法逻辑执行</b></font>
 
 6. <font color="blue"><b>返回对象引用</b></font>：在对象初始化完成之后，Java 虚拟机会返回对象的引用，这个引用可以被存储在局部变量、成员变量、静态变量等位置，用于后续的操作。
 
